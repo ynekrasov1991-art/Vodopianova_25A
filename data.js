@@ -30,8 +30,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.854010126429806,
-          "pitch": 0.6430555123512338,
+          "yaw": -1.8472965131466275,
+          "pitch": 0.6461441749789518,
           "rotation": 0,
           "target": "1-_1"
         },
@@ -39,11 +39,11 @@ var APP_DATA = {
           "yaw": 1.7406966072931604,
           "pitch": 0.719003776236935,
           "rotation": 0,
-          "target": "15-_2"
+          "target": "13-"
         },
         {
-          "yaw": -1.5767028798702345,
-          "pitch": 0.34168759495041634,
+          "yaw": -1.5738316604503293,
+          "pitch": 0.364509559228253,
           "rotation": 0,
           "target": "8-"
         }
@@ -92,8 +92,8 @@ var APP_DATA = {
           "target": "6-_"
         },
         {
-          "yaw": -0.7979101575406542,
-          "pitch": 0.4520843762376128,
+          "yaw": -0.859029235369853,
+          "pitch": 0.5450174201947338,
           "rotation": 0,
           "target": "4-"
         },
@@ -104,8 +104,8 @@ var APP_DATA = {
           "target": "8-"
         },
         {
-          "yaw": 1.5884399840590664,
-          "pitch": 0.47221822807116176,
+          "yaw": 1.5688283160696628,
+          "pitch": 0.47146939133576815,
           "rotation": 7.0685834705770345,
           "target": "2-__1"
         }
@@ -142,14 +142,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.37684302309025774,
-          "pitch": 0.6465171867878539,
+          "yaw": -0.3834806306122758,
+          "pitch": 0.6541361875238074,
           "rotation": 10.995574287564278,
           "target": "9-_"
         },
         {
-          "yaw": 0.01641148778493573,
-          "pitch": 0.28192080308620504,
+          "yaw": 0.025602371180866612,
+          "pitch": 0.2935801666929372,
           "rotation": 6.283185307179586,
           "target": "10-_"
         },
@@ -190,8 +190,8 @@ var APP_DATA = {
           "target": "4-"
         },
         {
-          "yaw": -0.022838597468741284,
-          "pitch": 0.5489848791371106,
+          "yaw": -0.003594336171392598,
+          "pitch": 0.5874588934525331,
           "rotation": 0,
           "target": "3-__2"
         }
@@ -240,8 +240,8 @@ var APP_DATA = {
           "target": "11-"
         },
         {
-          "yaw": 1.2017215987221839,
-          "pitch": 0.9695966959448992,
+          "yaw": 1.214112343153234,
+          "pitch": 0.9391703197027539,
           "rotation": 5.497787143782138,
           "target": "12-"
         },
@@ -258,8 +258,8 @@ var APP_DATA = {
           "target": "8-"
         },
         {
-          "yaw": 1.5793531391386386,
-          "pitch": 0.6942362502057975,
+          "yaw": 1.5881907972348577,
+          "pitch": 0.6610666412139441,
           "rotation": 0,
           "target": "2-__1"
         },
@@ -640,89 +640,7 @@ var APP_DATA = {
     },
     {
       "id": "13-",
-      "name": "Кладовка",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2000,
-      "initialViewParameters": {
-        "yaw": -2.856206393223177,
-        "pitch": 0.08603778112056304,
-        "fov": 1.3474042771833745
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.8311237260886273,
-          "pitch": 0.6518911656023061,
-          "rotation": 7.0685834705770345,
-          "target": "14-_1"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "14-_1",
-      "name": "Тамбур_1",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2000,
-      "initialViewParameters": {
-        "yaw": 3.1183286775285897,
-        "pitch": 0.15576069294416328,
-        "fov": 1.3474042771833745
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.9942398863570903,
-          "pitch": 0.3227784192536092,
-          "rotation": 0,
-          "target": "15-_2"
-        },
-        {
-          "yaw": -0.13124806666930056,
-          "pitch": 0.23166001422545968,
-          "rotation": 20.420352248333668,
-          "target": "13-"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "15-_2",
-      "name": "Тамбур_2",
+      "name": "Тамбур",
       "levels": [
         {
           "tileSize": 256,
@@ -754,6 +672,50 @@ var APP_DATA = {
           "pitch": 0.6505140357466477,
           "rotation": 0,
           "target": "0-__"
+        },
+        {
+          "yaw": -0.14501191201305375,
+          "pitch": 0.23594823148468436,
+          "rotation": 1.5707963267948966,
+          "target": "14-"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "14-",
+      "name": "Кладовка",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2000,
+      "initialViewParameters": {
+        "yaw": -2.856206393223177,
+        "pitch": 0.08603778112056304,
+        "fov": 1.3474042771833745
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.8311237260886273,
+          "pitch": 0.6518911656023061,
+          "rotation": 7.0685834705770345,
+          "target": "13-"
         }
       ],
       "infoHotspots": []
@@ -763,7 +725,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
